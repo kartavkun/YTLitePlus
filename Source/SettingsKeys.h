@@ -23,9 +23,6 @@ NSArray *NSUserDefaultsCopyKeys = @[
     // DEMC - https://github.com/therealFoxster/DontEatMyContent/blob/master/Tweak.h
     @"DEMC_enabled", @"DEMC_colorViewsEnabled", @"DEMC_safeAreaConstant", @"DEMC_disableAmbientMode", 
     @"DEMC_limitZoomToFill", @"DEMC_enableForAllVideos",
-    // iSponsorBlock cannot be exported using this method - it is also being removed in v5
-    // Return-YouTube-Dislike - https://github.com/PoomSmart/Return-YouTube-Dislikes/blob/main/TweakSettings.h
-    @"RYD-ENABLED", @"RYD-VOTE-SUBMISSION", @"RYD-EXACT-LIKE-NUMBER", @"RYD-EXACT-NUMBER",
     // All YTVideoOverlay Tweaks - https://github.com/PoomSmart/YTVideoOverlay/blob/0fc6d29d1aa9e75f8c13d675daec9365f753d45e/Tweak.x#L28C1-L41C84
     @"YTVideoOverlay-YouLoop-Enabled", @"YTVideoOverlay-YouTimeStamp-Enabled", @"YTVideoOverlay-YouMute-Enabled", 
     @"YTVideoOverlay-YouQuality-Enabled", @"YTVideoOverlay-YouLoop-Position", @"YTVideoOverlay-YouTimeStamp-Position", 
